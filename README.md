@@ -1,6 +1,10 @@
 # Arc Obsidian Clipper
 
-This project provides a custom Arc browser Boost script that allows users to easily clip web content directly into their Obsidian vault.
+This project provides a custom Arc browser Boost script that allows users to easily clip web content directly into their Obsidian vault. It is inspired by and adapted from the original [Obsidian Web Clipper](https://stephango.com/obsidian-web-clipper) created by [Steph Ango](https://stephango.com/).
+
+## Original Inspiration
+
+The Arc Obsidian Clipper is based on the bookmarklet version of the Obsidian Web Clipper. You can find the original bookmarklet and more information [here](https://stephango.com/obsidian-web-clipper). This project adapts the core functionality of the original clipper to work as an Arc browser Boost, providing a seamless experience for Arc users.
 
 ## Features
 
@@ -48,3 +52,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Acknowledgements
+
+Special thanks to [Steph Ango](https://stephango.com/obsidian-web-clipper) for creating the original Obsidian Web Clipper, which served as the inspiration and foundation for this Arc browser adaptation.
